@@ -1,4 +1,4 @@
-<img src=\"https://water.weather.gov/resources/hydrographs/gcdw1_hg.png\" style=\"max-height: 465; max-width: 600px;\"/>
+![columbia river water level above grand coulee](https://water.weather.gov/resources/hydrographs/gcdw1_hg.png)
 
 ---
 
